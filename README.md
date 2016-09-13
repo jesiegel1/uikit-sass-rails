@@ -57,7 +57,7 @@ In your `app/assets/stylesheets/application.scss` file just replace the uikit li
 ```
 
 ## Copyright and license
-Copyright 2014 Christian Worreschk under the [European Union Public Licence V. 1.1](http://opensource.org/licenses/EUPL-1.1).
+Copyright 2014 Christian Worreschk under the [MIT Licence](http://opensource.org/licenses/MIT).
 
 * [UIkit](http://www.getuikit.com) is created by [YOOtheme](http://www.yootheme.com) and licensed under the [MIT license](http://opensource.org/licenses/MIT).
 * The [Font Awesome](http://fontawesome.io) font, which is used by UIkit, is created by [Dave Gandy](https://github.com/davegandy) and licensed under the [SIL OFL 1.1](http://scripts.sil.org/OFL).
